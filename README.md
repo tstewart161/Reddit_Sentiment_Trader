@@ -11,15 +11,15 @@ This uses VADER (Valence Aware Dictionary for Sentiment Reasoning), which is a m
 
 Note: Based only on a backtest to January 2020 (not enough data prior), so take these numbers really with a grain of salt, and take the algorithm as a fun novelty more than a reliable alpha-generator
 
-**Annualized return of 35% (compared to 16% for the SP500)
+### Annualized return of 35% (compared to 16% for the SP500)
 
-**Max drawdown of -8.7% (aka how far it went down before coming back up -- interestingly enough, Reddit sentiment weathered COVID pretty well)
+### Max drawdown of -8.7% (aka how far it went down before coming back up -- interestingly enough, Reddit sentiment weathered COVID pretty well)
 
-**Sharpe Ratio: 2.22
+### Sharpe Ratio: 2.22
 
-**Profit-Loss Ratio: 3.48
+### Profit-Loss Ratio: 3.48
 
-**Avg. Win: 0.85%
+### Avg. Win: 0.85%
 
-**Avg. Loss: -0.24%
+### Avg. Loss: -0.24%
 
