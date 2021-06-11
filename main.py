@@ -26,14 +26,15 @@ nltk.download('stopwords')
 
 reddit = praw.Reddit(client_id='*********',
                     client_secret='******************',
-                    user_agent='Quick-Sherbet-1373')
+                    user_agent='Jelly_Juice_6789')
 
 
 # In[4]:
 
 
 sub_reddits = reddit.subreddit('wallstreetbets')
-stocks = ["SPCE", "LULU", "CCL", "SDC"]
+stocks = ["SPCE", "LULU", "CCL", "SDC"] 
+# For example purposes. To use this as a live trading tool, you'd want to populate this with tickers that have been mentioned on the pertinent community (WSB in our case) in a specified period.
 
 
 # In[5]:
