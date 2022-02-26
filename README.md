@@ -1,6 +1,6 @@
 # Reddit_Sentiment_Trader
 
-Note: if you want to use this without having to deploy/run code, check out [Quantbase](http://getquantbase.com)
+**Note: if you want to use this without having to deploy/run code, check out [Quantbase](http://getquantbase.com)**
 
 An algo that scans the most popular trading sub-reddits and logs the tickers mentioned in due-diligence or discussion-styled posts. As well as scanning for how many times each ticker was mentioned in a comment, it logs how popular the post was among the sub-reddit. Essentially if it makes it to the 'hot' page, regardless of the subreddit, then it will most likely be on this list.
 
